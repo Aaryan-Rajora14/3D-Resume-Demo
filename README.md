@@ -4,7 +4,7 @@
 
 > **A beautiful, interactive, single-file HTML resume/portfolio generator** inspired by premium developer portfolios.
 
----
+-----
 
 Link to Resume - https://aaryan-rajora14.github.io/3D-Resume-Demo/
 
