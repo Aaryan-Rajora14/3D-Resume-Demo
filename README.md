@@ -1,6 +1,5 @@
 # 3D Resume - Modern HTML Resume / Portfolio Generator
 
-![Project Banner](https://via.placeholder.com/1200x400/0a1428/3b82f6?text=ResumeForge%20-%20Modern%20Resume%20Builder)
 
 > **A beautiful, interactive, single-file HTML resume/portfolio generator** inspired by premium developer portfolios.
 
