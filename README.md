@@ -5,7 +5,7 @@
 
 -----
 
-Link to Resume - https://aaryan-rajora14.github.io/3D-Resume-Demo/
+Resume Link- https://aaryan-rajora14.github.io/3D-Resume-Demo/
 
 ## ✨ Project Overview
 
