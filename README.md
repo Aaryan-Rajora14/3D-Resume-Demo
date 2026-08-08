@@ -66,7 +66,7 @@ We are actively building the first version. The goal is to launch a Minimum Viab
 - [ ] PDF export
 - [ ] Hosting guide + GitHub Pages integration
 
-**Expected Launch**: August 2026
+**Expected Launch**: January 2027
 
 ---
 
