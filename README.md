@@ -73,8 +73,4 @@ We are actively building the first version. The goal is to launch a Minimum Viab
 ## How to Use (When Released)
 
 ```bash
-# Install
-pip install resumeforge
-
-# Generate resume
-resumeforge new my-resume.yaml --theme cyber
+Just Put your resume with your profile pic and enter all your information.
