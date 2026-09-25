@@ -73,6 +73,7 @@ We are actively building the first version. The goal is to launch a Minimum Viab
 ## How to Use (When Released)
 
 So many things in my this resume are no true.
+But you can always check my Linkedin for my authenticity check.
 
 ```bash
 Just Put your resume with your profile pic and enter all your information.
