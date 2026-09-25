@@ -72,6 +72,8 @@ We are actively building the first version. The goal is to launch a Minimum Viab
 
 ## How to Use (When Released)
 
+So many things in my this resume are no true.
+
 ```bash
 Just Put your resume with your profile pic and enter all your information.
 It take so much time to make a resume building website like this. (Mine is crafted)
