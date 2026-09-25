@@ -6,6 +6,7 @@
 -----
 
 Resume Link- https://aaryan-rajora14.github.io/3D-Resume-Demo/
+My LinkedIn - www.linkedin.com/in/aaryan-rajora-73b6b42b8
 
 ## ✨ Project Overview
 
