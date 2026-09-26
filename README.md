@@ -75,6 +75,7 @@ We are actively building the first version. The goal is to launch a Minimum Viab
 
 So many things in my this resume are no true.
 But you can always check my Linkedin for my authenticity check.
+I will try to fix everything as soon as possible. 
 
 ```bash
 Just Put your resume with your profile pic and enter all your information.
