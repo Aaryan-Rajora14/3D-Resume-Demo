@@ -74,7 +74,7 @@ We are actively building the first version. The goal is to launch a Minimum Viab
 ## How to Use (When Released)
 
 So many things in my this resume are no true.
-But you can always check my Linkedin for my authenticity check.
+But you can check my Linkedin for my authenticity check.
 I will try to fix everything as soon as possible. 
 
 ```bash
